@@ -1,1 +1,10 @@
- 
+.slogan {
+
+}
+.navbar {
+    background-color:rgba(47, 89, 152, 1);
+}
+.logo {
+    height: 75px;
+    width: 85px;
+}
