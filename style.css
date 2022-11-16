@@ -1,5 +1,6 @@
-.slogan {
-
+.style {
+    border-width: 8px;
+    border-color: ;
 }
 .navbar {
     background-color:rgba(47, 89, 152, 1);
@@ -7,4 +8,13 @@
 .logo {
     height: 75px;
     width: 85px;
+}
+body {
+    background-color: #9b0621;
+}
+.placeholder {
+    text-align: center;
+}
+h6 {
+    background-color: white;
 }
