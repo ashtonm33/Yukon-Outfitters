@@ -1,6 +1,5 @@
-.style {
+.border {
     border-width: 8px;
-    border-color: ;
 }
 .navbar {
     background-color:rgba(47, 89, 152, 1);
@@ -18,3 +17,19 @@ body {
 h6 {
     background-color: white;
 }
+.center {
+    display: flex;
+    justify-content: center;
+}
+.paragraph {
+    height: 90px;
+    width:550px;
+}
+.image {
+    align-content: flex-end;
+}
+.align {
+    display: flex;
+    justify-content: right;
+}
+
