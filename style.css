@@ -2,20 +2,21 @@
     border-width: 8px;
 }
 .navbar {
-    background-color:rgba(47, 89, 152, 1);
+    background-color: rgba(47, 89, 152, 1);
 }
 .logo {
     height: 75px;
     width: 85px;
 }
 body {
-    background-color: #9b0621;
+    background-color: white;
 }
 .placeholder {
     text-align: center;
 }
 h6 {
     background-color: white;
+
 }
 .center {
     display: flex;
@@ -33,3 +34,14 @@ h6 {
     justify-content: right;
 }
 
+.placeholder {
+    background: blue;
+}
+.glow {
+    font-size: 70px;
+    color: rgb(245, 0, 0);
+    text-align: center;
+    
+    
+
+}
