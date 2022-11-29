@@ -7,8 +7,8 @@
     font-size:x-large;
 }
 .logo {
-    height: 75px;
-    width: 85px;
+    height: 85px;
+    width: 105px;
 }
 body {
     background-color: white;
@@ -43,4 +43,12 @@ h6 {
 .dropdown-toggle {
     color: white;
     font-size: medium;
+}
+footer {
+    background-color: rgba(47, 89, 152, 1);
+
+}
+.footerlogo {
+    height: 95px;
+    width: 139px;
 }
