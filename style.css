@@ -35,6 +35,9 @@ h6 {
     display: flex;
     justify-content: right;
 }
+.box {
+    width: 100px;
+}
 
 .placeholder {
     background: red;
@@ -45,10 +48,21 @@ h6 {
     font-size: medium;
 }
 footer {
-    background-color: rgba(47, 89, 152, 1);
+    background-color: rgb(17, 197, 197); 
+    bottom: 0; width: 100%; 
+    height: 40px;
+    background : #6cf; }
 
-}
 .footerlogo {
     height: 95px;
     width: 139px;
+}
+.bi-twitter {
+    color: black;
+}
+.bi-instagram {
+    color:black;
+}
+.bi-facebook {
+    color:black;
 }
