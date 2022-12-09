@@ -1,5 +1,6 @@
 .border {
     border-width: 8px;
+    border-color:rgba(47, 89, 152, 1);
 }
 .navbar {
     background-color: rgba(47, 89, 152, 1);
@@ -66,3 +67,6 @@ footer {
 .bi-facebook {
     color:black;
 } 
+B {
+    color:rgba(47, 89, 152, 1);
+}
