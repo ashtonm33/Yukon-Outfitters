@@ -9,8 +9,8 @@
 }
 
 .logo {
-    height: 85px;
-    width: 105px;
+    height: 100px;
+    width: 111px;
 }
 h1 {
     color: rgba(47, 89, 152, 1)
@@ -37,7 +37,7 @@ h6 {
 
 .paragraph {
     height: 90px;
-    width: 390px;
+    width: 370px;
 
 }
 
@@ -71,16 +71,15 @@ footer {
     width: 139px;
 }
 
-.bi-twitter {
-    color: black;
-}
-
 .bi-instagram {
-    color: black;
+    color: white;
 }
 
 .bi-facebook {
-    color: black;
+    color: white;
+}
+.bi-twitter {
+
 }
 
 B {
